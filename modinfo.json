@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "oldVision",
+    "name": "Old Vision",
+    "authors": [ "OromisElf" ],
+    "description": "Let's you see details of map terrain that you technically shouldn't be able to see yet.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
